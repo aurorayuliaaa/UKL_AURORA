@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>biodata rara</title>
+</head>
+<body>
+     <!--biodata diri-->
+</body>
+</html>
+<body>
+      <h1 align="center">
+               BIODATA DIRI
+      </h1>
+      <table width="800px" border="1px" align="center" cellpadding="5">
+              <tr>
+                      <th bgcolor="aqua">Photo</th>
+                      <th colspan="2" bgcolor="aqua">
+                               Identitas Diri
+                      </th>
+                    </tr>
+                </tr>
+                        <td rowspan="7" align="center">
+                                <img src="images/fotorara.jpg">
+                        </td>
+                        <td>Nama Lengkap</td>
+                        <td>Aurora Yulia Safa</td>
+                    </tr>
+                    <tr> 
+                        <td>Tanggal Lahir</td>
+                        <td>5 Juli 2009</td>
+                    </tr>
+                    <tr> 
+                        <td>Tempat Lahir</td>
+                        <td>Padangsidimpuan, Indonesia</td>
+                    </tr>
+                    <tr>
+                        <td>Kelas</td>
+                        <td>X SIJA 2</td>
+                    </tr>
+                </table>
+            </body>
+                

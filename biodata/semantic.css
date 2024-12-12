@@ -1,0 +1,19 @@
+/* stlye.css */
+header {
+    background-color: cadetblue;
+    padding: 20px;
+}
+
+nav ul { 
+    list-style: none;
+    padding: 0;
+ }
+
+ nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+article {
+    margin-bottom: 20px;
+}

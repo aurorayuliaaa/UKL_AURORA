@@ -1,0 +1,30 @@
+{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+a{
+    color: inherit;
+}
+.medsos{
+    padding: 5px 0;
+    background-color: hsl(185, 92%, 59%);
+}
+.medsos ul li{
+    display: inline-block;
+    color: #fff;
+    margin-right: 10px;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+header{
+    border: 1px solid;
+}
+header h1{
+    border: 1px solid;
+}
+header ul{
+    
+}
